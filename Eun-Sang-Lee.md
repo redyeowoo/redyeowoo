@@ -18,4 +18,3 @@
 게다가 친구가 제게 사진을 주며 프로필로 쓰라고 준 이미지에요.
 그래서 애용하며 사용하고 있어요.
 
-![이미지](https://github.com/user-attachments/assets/5fc10626-3e81-4c4d-8608-d9180f900eb1)
